@@ -1,4 +1,4 @@
-# The Book Shelf of Udacity  - TODO: CHANGE THIS TITLE [done]
+# The Book Shelf of Udacity 
 
 This is one of the greatest bookshelves you can find online, which have a lot of books from different categories and fields. A lot of people can read these books and rate it based on their opinion, and an author could publish a book and see what people think of his books through the rating. A student is able to add books, give them rating, update the rating, and search for a book using the title (case-insensitive and partial search).
 
