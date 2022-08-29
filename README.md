@@ -49,7 +49,7 @@ database_path = "postgresql://{}:{}@{}/{}".format(
  
 - Run your FLASK server
 
-  - In order to run your FLASK server locally, open the terminal and make sure your are in the backend directory for the project, then writer the following command lines to start the server:
+  - In order to run your FLASK server locally, open the terminal and make sure your are in the backend directory for the project, then write the following command lines to start the server:
 ```
 $ export FLASK_APP=flaskr
 $ export FLASK_ENV=development
