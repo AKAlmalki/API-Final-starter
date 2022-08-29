@@ -15,7 +15,7 @@ Developers using this project should already have Python3, pip and node installe
 ```
 aniso8601==6.0.0
 Click==7.0
-Flask==1.0.3
+Flask==2.1.3
 Flask-Cors==3.0.7
 Flask-RESTful==0.3.7
 Flask-SQLAlchemy==2.4.0
